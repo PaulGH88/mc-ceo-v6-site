@@ -1,0 +1,5 @@
+# V6 is a REVIEW-ONLY build (Paul, 2026-09-09: "Internal"). Not prospect-facing.
+# Ships to the root of whatever host this build deploys under (planned: ceo6.ourmission.live,
+# its own repository). Remove ONLY when a build is deliberately promoted to prospect-facing.
+User-agent: *
+Disallow: /
